@@ -1,0 +1,117 @@
+body {
+  background-image:url(bgpattern.jpg);
+  color: #000000;
+  text-align: center;
+  width: device-width;
+}
+
+header {
+    background-color:white;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 20px;
+}
+
+.click{
+    width:10%;
+    height:100%;  
+    padding-left: 30px;
+    padding-right:30px;
+}
+
+main {
+    background-color:white;
+    width: 50%;
+    margin:auto;
+}
+
+footer{
+}   
+
+p {
+padding-left: 50px;
+padding-right: 50px;   
+}
+
+poem {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h1 {
+padding-bottom: 0px;
+}
+
+header {
+    background-color: #2851a8;
+    border-style:solid;
+    border-width:10px;
+    text-align: center;
+    color: #843ab2;
+    width: 50%;
+    margin: auto;
+    h1{
+        font-size:40px;
+}
+    a{
+        color:#b23aa4;
+        font-size:30px;
+    }
+}
+
+main {
+    background-color: #2851a8;
+    height:80%;
+    width: 60%;
+    margin: auto;
+    border-style:solid;
+    border-width:10px;
+    border-color: #843ab2;
+}
+
+footer {
+background-color: #2851a8;
+}
+    h3 {
+    text-transform: uppercase;
+}
+
+p {
+    font-family: Arial;
+}
+
+
+.poem{
+    padding-left:20px;
+    a{
+        color:red;
+}
+}
+
+.cover {
+    height:300px;
+    float:right;
+    padding-right:50px;
+}
+
+table, th, td {
+  border: 1px solid yellow;
+  color:white;
+  margin: auto;
+}
+
+h1 {
+    text-align:center;
+    color:white;
+}
+
+song {
+    color:pink;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
